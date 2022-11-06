@@ -1,3 +1,5 @@
 float , item price , quantity
 bill=item price * quantity
 display bill
+discount =bill*10/100
+display discount 
