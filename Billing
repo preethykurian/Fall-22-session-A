@@ -1,3 +1,5 @@
 float , item price , quantity
 bill=item price * quantity
 display bill
+add the point
+if customer is a regular customer, each purchase allocate 10 points 
